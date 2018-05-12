@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18341#Come-Lasses-and-Lads
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2006-05-07'
 gutenberg_type: Text
